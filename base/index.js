@@ -1,9 +1,19 @@
+// Переменные
+
 let man = 'Dmitrii'
 
 man = 'Tomy'
 
-const dog = 'Пёс призрак'
+const woman = 'Irina'
 
-console.log(dog)
+console.log(woman)
 
-dog = 'Малыш'
+// Типы данных
+
+let string = 'Строка'
+let number = 12
+
+let boolTrue = true // Правда
+let boolFalse = false // Ложь
+
+let object = {} // Объект 
