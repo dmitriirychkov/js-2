@@ -1,1 +1,3 @@
-console.log(23)
+let man = 'Dmitrii'
+
+console.log(man)
