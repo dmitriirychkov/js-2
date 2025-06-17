@@ -2,4 +2,8 @@ let man = 'Dmitrii'
 
 man = 'Tomy'
 
-console.log(man)
+const dog = 'Пёс призрак'
+
+console.log(dog)
+
+dog = 'Малыш'
