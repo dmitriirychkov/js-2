@@ -1,0 +1,18 @@
+{
+  "name": "starter-basics-programming",
+  "version": "1.0.0",
+  "description": "A template for course",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["html", "css", "js"],
+  "private": true,
+  "author": "Result.school",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0"
+  }
+}
