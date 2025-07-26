@@ -13,6 +13,12 @@ salariesOfDevelopers.shift ();
 
 const lastRemovedElement = salariesOfDevelopers.pop();
 
+/* 
 console.log('firstRemovedElement', firstRemovedElement);
 console.log('salariesOfDevelopers', salariesOfDevelopers);
-console.log('lastRemovedElement', lastRemovedElement);
+console.log('lastRemovedElement', lastRemovedElement); 
+*/
+
+// Изменение элементов 
+salariesOfDevelopers[4] = 6000;
+console.log('salariesOfDevelopers', salariesOfDevelopers);
